@@ -1,6 +1,5 @@
 # temp-mail
-
-# Temp-mail Adalah temporary email yang bisa diartikan sebagai layanan E-Mail yang bersifat sementara. Dengan menggunakan layanan email sementara, maka anda tidak perlu membuat akun email maupun menggunakan email pribadi saat ingin mendaftar sesuatu.
+Temp-mail Adalah temporary email yang bisa diartikan sebagai layanan E-Mail yang bersifat sementara. Dengan menggunakan layanan email sementara, maka anda tidak perlu membuat akun email maupun menggunakan email pribadi saat ingin mendaftar sesuatu.
 
 # Bagaimana Cara Installnya?
 
